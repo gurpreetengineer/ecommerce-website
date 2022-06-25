@@ -1,11 +1,11 @@
-import React from "react";
-import { Link } from "react-router-dom";
-import { ReactComponent as IconTelephone } from "bootstrap-icons/icons/telephone.svg";
-import { ReactComponent as IconEnvelope } from "bootstrap-icons/icons/envelope.svg";
-import { ReactComponent as IconBriefcase } from "bootstrap-icons/icons/briefcase.svg";
-import { ReactComponent as IconBadgeAd } from "bootstrap-icons/icons/badge-ad.svg";
-import { ReactComponent as IconGift } from "bootstrap-icons/icons/gift.svg";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import React from 'react';
+import { Link } from 'react-router-dom';
+import { ReactComponent as IconTelephone } from 'bootstrap-icons/icons/telephone.svg';
+import { ReactComponent as IconEnvelope } from 'bootstrap-icons/icons/envelope.svg';
+import { ReactComponent as IconBriefcase } from 'bootstrap-icons/icons/briefcase.svg';
+import { ReactComponent as IconBadgeAd } from 'bootstrap-icons/icons/badge-ad.svg';
+import { ReactComponent as IconGift } from 'bootstrap-icons/icons/gift.svg';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faTwitter,
   faFacebookF,
@@ -14,7 +14,7 @@ import {
   faApple,
   faWindows,
   faAndroid,
-} from "@fortawesome/free-brands-svg-icons";
+} from '@fortawesome/free-brands-svg-icons';
 
 const Footer = () => {
   return (
@@ -168,11 +168,11 @@ const Footer = () => {
               <div className="h6">Address</div>
               <hr />
               <address>
-                <strong>Twitter, Inc.</strong>
+                <strong>Lorem Ipsum, Inc.</strong>
                 <br />
-                1355 Market St, Suite 900
+                Chandigarh
                 <br />
-                San Francisco, CA 94103
+                Punjab, India 160022
                 <br />
                 <abbr title="Phone">P:</abbr> (123) 456-7890
               </address>
