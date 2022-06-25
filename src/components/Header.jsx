@@ -94,7 +94,7 @@ const Header = () => {
                 </ul>
               </div>
               <a
-                href="https://www.buymeacoffee.com/bhaumik"
+                href="https://www.buymeacoffee.com/garrybamrah"
                 target="_blank"
                 rel="noopener noreferrer"
               >

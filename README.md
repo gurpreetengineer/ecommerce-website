@@ -19,7 +19,7 @@ Built with React JS and Bootstrap 5
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Buy Me A Coffee](#buy-me-a-coffee)
+- [Buy Me A Coffee](#buy-me-a-coffee) 
 - [What's included](#whats-included)
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
@@ -28,15 +28,14 @@ Built with React JS and Bootstrap 5
 
 Several quick start options are available:
 
-- [Download the latest branch](https://github.com/bhaumikpatel/E-Commerce-Template)
-- Clone the repo: `git clone https://github.com/bhaumikpatel/E-Commerce-Template.git`
+- Clone the repo: `git clone https://github.com/gurpreetreact/ecommerce-website.git`
 - Install with [npm](https://www.npmjs.com/): `npm install`
 - Runs the app in the development mode `npm start`
 - Builds the app for production to the `build` folder `npm run build`
 
 ## Buy Me A Coffee
 
-[![BuyMeACoffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/bhaumik)
+[![BuyMeACoffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/garrybamrah)
 
 ## What's included
 
